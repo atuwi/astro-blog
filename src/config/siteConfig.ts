@@ -43,10 +43,10 @@ export const siteConfig: SiteConfig = {
 	title: "文字型藥錠",
 
 	// 站点副标题
-	subtitle: "一直都在寫文",
+	subtitle: "施工中",
 
 	// 站点 URL
-	site_url: "https://firefly.cuteleaf.cn",
+	site_url: " ",
 
 	// 站点描述
 	description:
