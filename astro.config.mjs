@@ -71,7 +71,7 @@ export default defineConfig({
 	base: "/astro-blog/",
 	trailingSlash: "always",
 	// ...後面其他設定維持不動
-});
+
 
 	// 字体配置 - 只加载实际使用的字体，跳过未引用的以加快构建
 	fonts: (() => {
