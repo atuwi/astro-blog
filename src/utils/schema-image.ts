@@ -74,17 +74,27 @@ export async function toAbsoluteImageUrl(
 
 // 返回本地图片 src 的绝对 URL + 元数据宽高（源图 img.src 指向 Astro 复制的真实源资产）
 async function getLocalImageInfo(
-	src: string,
-	basePath: string,
-	base: URL | string,
+    src: string,
+    basePath: string,
+    base: URL | string,
 ): Promise<{ url: string; width: number; height: number } | null> {
-	const img = await loadLocalImage(src, basePath);
-	if (!img) return null;
-	return {
-		url: new URL(url(img.src), base).toString(),
-		width: img.width,
-		height: img.height,
-	};
+    const img = await loadLocalImage(src, basePath);
+    if (!img) return null;
+
+    const imageSrc = url(img.src);
+
+    console.error("[schema-image] DEBUG", {
+        src,
+        imgSrc: img.src,
+        imageSrc,
+        base,
+    });
+
+    return {
+        url: new URL(imageSrc, base).toString(),
+        width: img.width,
+        height: img.height,
+    };
 }
 
 /**
