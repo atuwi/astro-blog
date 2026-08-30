@@ -76,7 +76,7 @@ export const zh_TW: Translation = {
 
 	[Key.comments]: "評論",
 	[Key.commentSection]: "評論區",
-	[Key.commentSubtitle]: "分享你的想法，與大家交流討論",
+	[Key.commentSubtitle]: "歡迎分享想法交流討論",
 	[Key.commentNotConfigured]: "評論系統暫未配置",
 	[Key.guestbookCommentHint]:
 		"您還未在配置文件中啟用評論系統，啟用後訪客才可在此留言",
@@ -89,7 +89,7 @@ export const zh_TW: Translation = {
 	[Key.searchBooknav]: "搜尋書籤...",
 	[Key.booknavEmpty]: "暫無書籤",
 	[Key.guestbook]: "留言",
-	[Key.guestbookDescription]: "歡迎在這裡留下你的足跡，分享你的想法和建議",
+	[Key.guestbookDescription]: "歡迎留下足跡，分享想法和建議",
 	[Key.untitled]: "無標題",
 	[Key.uncategorized]: "未分類",
 	[Key.noTags]: "無標籤",
