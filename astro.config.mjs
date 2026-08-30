@@ -68,7 +68,7 @@ const adapter = process.env.CF_WORKERS
 // https://astro.build/config
 export default defineConfig({
 	site: "https://atuwi.github.io",
-	base: "/astro-blog/",
+	base: "/",
 	trailingSlash: "always",
 	// ...後面其他設定維持不動
 
