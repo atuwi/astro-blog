@@ -43,7 +43,7 @@ export const siteConfig: SiteConfig = {
 	title: "文字型藥錠",
 
 	// 站点副标题
-	subtitle: "施工中",
+	subtitle: " ",
 
 	// 站点 URL
 	site_url: " ",
