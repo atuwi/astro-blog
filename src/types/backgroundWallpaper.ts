@@ -1,6 +1,6 @@
 export type BackgroundWallpaperConfig = {
 	mode: "banner" | "fullscreen" | "overlay" | "none"; // 壁纸模式：banner横幅模式、fullscreen全屏壁纸、overlay全屏透明覆盖模式或none纯色背景
-	playerEnable?: boolean; // 是否启用背景视频播放，默认false
+	playerEnable?: boolean; // 是否启用背景影片播放，默认false
 	src:
 		| string
 		| string[]
@@ -36,7 +36,7 @@ export type BackgroundWallpaperConfig = {
 		};
 		// 壁纸轮播配置，横幅壁纸和全屏壁纸共享
 		carousel?: {
-			enable: boolean; // 是否启用壁纸轮播
+			enable: boolean; // 是否启用壁纸輪播
 			interval?: number; // 轮播间隔时间，单位毫秒
 			transitionEffect?: "fade" | "zoom" | "slide" | "kenburns"; // 过渡效果: 'fade' 渐变 | 'zoom' 缩放 | 'slide' 滑动 | 'kenburns' 旋转木马
 		};

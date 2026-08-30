@@ -11,12 +11,12 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 	// left: 仅显示左侧边栏
 	// right: 仅显示右侧边栏
 	// both: 双侧边栏，1280px以上同时显示左右，769-1279px根据tabletSidebar配置显示其中一侧
-	position: "both",
+	position: "right",
 
 	// 平板端(769-1279px)显示哪侧侧边栏，仅position为both时生效
 	// left: 平板端显示左侧边栏
 	// right: 平板端显示右侧边栏
-	tabletSidebar: "left",
+	tabletSidebar: "right",
 
 	// 文章详情页隐藏侧边栏，设为 true 则只在首页等非文章页显示
 	hideSidebarOnPostPage: false,
@@ -37,7 +37,7 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 	// showOnPostPage 是否在文章详情页显示该组件
 	// hideOnNonPostPage 是否在非文章详情页隐藏该组件（true=仅文章详情页显示）
 	// specificConfig 组件专属配置
-	leftComponents: [
+	rightComponents: [
 		{
 			// 组件类型：用户资料组件
 			type: "profile",
@@ -52,7 +52,7 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 			// 组件类型：公告组件
 			type: "announcement",
 			// 是否启用该组件
-			enable: true,
+			enable: false,
 			// 组件位置
 			position: "top",
 			// 是否在文章详情页显示
@@ -62,7 +62,7 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 			// 组件类型：音乐播放器
 			type: "music",
 			// 是否启用该组件
-			enable: true,
+			enable: false,
 			// 组件位置
 			position: "sticky",
 			// 是否在文章详情页显示
@@ -95,14 +95,10 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 			// 组件专属配置
 			specificConfig: {
 				// 折叠阈值：当标签数量超过>10个时自动折叠
-				collapseThreshold: 10,
+				collapseThreshold: 999,
 			},
 		},
-	],
-
-	// 右侧边栏组件配置列表
-	rightComponents: [
-		{
+				{
 			// 组件类型：最新动态组件
 			type: "dynamic",
 			// 是否启用该组件
@@ -123,12 +119,18 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 			// 组件类型：站点统计组件
 			type: "stats",
 			// 是否启用该组件
-			enable: true,
+			enable: false,
 			// 组件位置
-			position: "top",
+			position: "sticky",
 			// 是否在文章详情页显示
 			showOnPostPage: false,
 		},
+	],
+
+	// 右侧边栏组件配置列表
+	leftComponents: [
+
+		
 		{
 			// 组件类型：站点信息组件
 			type: "siteInfo",
@@ -277,7 +279,7 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 			// 组件专属配置
 			specificConfig: {
 				// 折叠阈值：当标签数量超过20个时自动折叠
-				collapseThreshold: 10,
+				collapseThreshold: 999,
 			},
 		},
 		{
@@ -299,9 +301,9 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 			// 组件类型：站点统计组件
 			type: "stats",
 			// 是否启用该组件
-			enable: true,
+			enable: false,
 			// 是否在文章详情页显示
-			showOnPostPage: true,
+			showOnPostPage: false,
 		},
 		{
 			// 组件类型：站点信息组件

@@ -3,7 +3,7 @@ import type { Translation } from "../translation";
 
 export const zh_TW: Translation = {
 	[Key.home]: "首頁",
-	[Key.about]: "關於我",
+	[Key.about]: "關於本站",
 	[Key.archive]: "歸檔",
 	[Key.search]: "搜尋",
 	[Key.searchNoResults]: "找不到相關結果。",
@@ -302,9 +302,9 @@ export const zh_TW: Translation = {
 	[Key.rss]: "RSS 訂閱",
 	[Key.rssDescription]: "訂閱獲取最新更新",
 	[Key.rssSubtitle]: "通過 RSS 訂閱，第一時間獲取最新文章和動態",
-	[Key.rssLink]: "RSS 鏈接",
-	[Key.rssCopyToReader]: "複製鏈接到你的 RSS 閱讀器",
-	[Key.rssCopyLink]: "複製鏈接",
+	[Key.rssLink]: "RSS 連結",
+	[Key.rssCopyToReader]: "複製連結到你的 RSS 閱讀器",
+	[Key.rssCopyLink]: "複製連結",
 	[Key.rssLatestPosts]: "最新文章",
 	[Key.rssWhatIsRSS]: "什麼是 RSS？",
 	[Key.rssWhatIsRSSDescription]:
@@ -314,8 +314,8 @@ export const zh_TW: Translation = {
 	[Key.rssBenefit3]: "避免錯過重要更新和文章",
 	[Key.rssBenefit4]: "享受無廣告的純淨閱讀體驗",
 	[Key.rssHowToUse]: "推薦使用 Feedly、Inoreader 或其他 RSS 閱讀器來訂閱本站。",
-	[Key.rssCopied]: "RSS 鏈接已複製到剪貼板！",
-	[Key.rssCopyFailed]: "複製失敗，請手動複製鏈接",
+	[Key.rssCopied]: "RSS 連結已複製到剪貼板！",
+	[Key.rssCopyFailed]: "複製失敗，請手動複製連結",
 
 	//最後編輯時間卡片
 	[Key.lastModifiedPrefix]: "最後更新於 ",
@@ -339,8 +339,8 @@ export const zh_TW: Translation = {
 	// 相關文章推薦
 	[Key.relatedPosts]: "相關文章",
 	[Key.randomPosts]: "隨機文章",
-	[Key.smartRecommend]: "智慧推薦",
-	[Key.randomRecommend]: "隨機推薦",
+	[Key.smartRecommend]: " ",
+	[Key.randomRecommend]: " ",
 	[Key.noRelatedPosts]: "暫無相關文章",
 	[Key.noRandomPosts]: "暫無隨機文章",
 
@@ -411,7 +411,7 @@ export const zh_TW: Translation = {
 	[Key.shareOnSocialDescription]: "如果這篇文章對你有幫助，歡迎分享給更多人！",
 
 	// 站點統計
-	[Key.siteStats]: "站點統計",
+	[Key.siteStats]: "網站統計",
 	[Key.siteStatsPostCount]: "文章",
 	[Key.siteStatsDynamicCount]: "動態",
 	[Key.siteStatsCategoryCount]: "分類",
@@ -424,7 +424,7 @@ export const zh_TW: Translation = {
 	[Key.today]: "今天",
 
 	// 站點資訊
-	[Key.siteInfo]: "站點資訊",
+	[Key.siteInfo]: "網站資訊",
 	[Key.siteInfoBuildTime]: "構建時間",
 	[Key.siteInfoBuildPlatform]: "構建平台",
 	[Key.siteInfoBlogVersion]: "部落格版本",

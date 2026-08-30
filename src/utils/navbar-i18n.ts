@@ -29,7 +29,7 @@ const NAVBAR_DEFAULT_NAMES: Record<string, I18nKey> = {
 	哔哩哔哩: I18nKey.bilibili,
 	番组计划: I18nKey.bangumi,
 	打赏: I18nKey.sponsor,
-	关于我: I18nKey.about,
+	關於本站: I18nKey.about,
 };
 
 export function resolveNavbarName(name: string): string {

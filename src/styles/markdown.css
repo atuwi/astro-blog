@@ -152,6 +152,18 @@
   }
 }
 
+// 使圖片在文章中居中顯示，避免被左對齊的樣式影響
+.prose figure {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.prose figure img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 .custom-md {
   table {
