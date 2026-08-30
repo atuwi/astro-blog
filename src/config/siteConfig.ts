@@ -43,10 +43,10 @@ export const siteConfig: SiteConfig = {
 	title: "文字型藥錠",
 
 	// 站点副标题
-	subtitle: " ",
+	subtitle: "請稍等",
 
 	// 站点 URL
-	site_url: " ",
+	site_url: "https://atuwi.github.io/",
 
 	// 站点描述
 	description:
