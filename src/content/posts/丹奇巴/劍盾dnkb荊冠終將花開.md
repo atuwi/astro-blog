@@ -2,7 +2,7 @@
 title: "[劍盾DNKB]荊冠終將花開(R)"
 published: 2020-04-03
 slug: 2j_dnkb_the_crown_of_thorns
-image: ../images/mitch-hodge.avif
+image: ../images/mitch-hodge.webp
 category: 二創小說
 series: "DNKB荊冠終將花開"
 seriesOrder: 1
