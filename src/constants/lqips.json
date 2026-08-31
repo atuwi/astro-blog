@@ -20,7 +20,7 @@
   "public:assets/images/sponsor/alipay.png": "8ebbde91bedf93c0e0",
   "public:assets/images/ad/ad1.webp": "a1b8b68a8e918c8f93",
   "src:assets/images/atu3.webp": "ede4e0f3eae6f1ecec",
-  "src:assets/images/atu.webp": "ede0d9e9d7cbd9ccc9",
+  "src:assets/images/atu.avif": "ede0d9e9d7cbd9ccc9",
   "src:content/posts/images/xJMebIqg_t.jpg": "ddcc8dd9cb94cfb983",
   "src:content/posts/images/v11rcuWu_t.jpg": "adadadcdcdcddadada",
   "src:content/posts/images/S755uGe4_t.jpg": "a5ae8288a7aa7a8a8f",
@@ -48,8 +48,8 @@
   "src:content/posts/images/blue.jpg": "374c426e766e304b51",
   "src:content/posts/images/banermoon.jpg": "d6d2a0d6d5c6d7d4c0",
   "src:content/posts/images/badass.jpg": "9b8a89968e8faba29e",
-  "src:assets/images/MobileWallpaper/bg_mugi.webp": "e3d4c2dfd3c1cd9b4a",
+  "src:assets/images/MobileWallpaper/bg_mugi.avif": "e3d4c2dfd3c1cd9b4a",
   "src:assets/images/logo/CS_Moon_6.png": "ffffffffffffffffff",
   "src:assets/images/logo/CS_Moon_4.png": "daff958fffb55cffca",
-  "src:assets/images/DesktopWallpaper/bg_mugi.webp": "e2d2bbdbcbb4cb9c50"
+  "src:assets/images/DesktopWallpaper/bg_mugi.avif": "e2d2bbdbcbb4cb9c50"
 }
