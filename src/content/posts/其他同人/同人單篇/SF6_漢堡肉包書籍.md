@@ -2,13 +2,13 @@
 title: "[盧傑]漢堡肉包三分熟(R)"
 published: 2024-12-15
 slug: 2j_sf_hamburger_baozi
-image: ../../images/hambo.jpg
+image: ../../images/hambo.avif
 category: 二創小說
 tags: [lukejamie, ルクジェミ, SF6]
 description: 皮囊下的個性品味大不同，肩膀擦撞的火花頂多是讓肉汁凝聚的三分熟，到底要多大力度與熱情才能剖出其中的美味。
 ---
 
-![](../../images/hambo.jpg)
+![](../../images/hambo.avif)
 
 >- 個人偏好而使用了「盧克」這個譯名。
 >- 還有異色組CP。
