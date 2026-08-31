@@ -27,7 +27,6 @@
   "src:content/posts/images/ring-low.jpg": "f8f8f9e0dfdfc8c7c6",
   "src:content/posts/images/qldhNEC8_t.jpg": "fcfcfcfefefec9c9c9",
   "src:content/posts/images/polish_cover.jpg": "b4bac26f87a1d3cdd6",
-  "src:content/posts/images/photo-1560329775-05b004e3ee48.jpg": "e4d7c4e0d2bec69648",
   "src:content/posts/images/OVMWW8Bp_t.jpg": "d3d3d39292929c9c9c",
   "src:content/posts/images/oboro.jpg": "dcdec4e3ebd7d9e3da",
   "src:content/posts/images/mnPbTamL_t.jpg": "e3e3e3d7d7d7d3d3d3",
@@ -35,7 +34,6 @@
   "src:content/posts/images/madome.jpg": "97a3ada4abafbfb69e",
   "src:content/posts/images/l7gmdFzG_t.jpg": "bdbdbdafafafdfdfdf",
   "src:content/posts/images/kannou.jpg": "dba39fdea4a0d6b3b0",
-  "src:content/posts/images/junru.jpg": "f3e291ecd98fdeb39b",
   "src:content/posts/images/hje0bbs6_t.jpg": "fbfbfbfdfdfdcacaca",
   "src:content/posts/images/hanbmo.webp": "4b88b66d91b2cfcd46",
   "src:content/posts/images/hambo.jpg": "668eaa1c74b81774b9",
@@ -47,9 +45,12 @@
   "src:content/posts/images/BoLd3hj2_t.jpg": "d1d3d8d9dbdadde1df",
   "src:content/posts/images/blue.jpg": "374c426e766e304b51",
   "src:content/posts/images/banermoon.jpg": "d6d2a0d6d5c6d7d4c0",
-  "src:content/posts/images/badass.jpg": "9b8a89968e8faba29e",
   "src:assets/images/MobileWallpaper/bg_mugi.avif": "e3d4c2dfd3c1cd9b4a",
   "src:assets/images/logo/CS_Moon_6.png": "ffffffffffffffffff",
   "src:assets/images/logo/CS_Moon_4.png": "daff958fffb55cffca",
-  "src:assets/images/DesktopWallpaper/bg_mugi.avif": "e2d2bbdbcbb4cb9c50"
+  "src:assets/images/DesktopWallpaper/bg_mugi.avif": "e2d2bbdbcbb4cb9c50",
+  "src:content/posts/images/junru.avif": "f3e291e9d792deb29f",
+  "src:content/posts/images/hambo.avif": "598eaa1376b90e75bb",
+  "src:content/posts/images/banermoon.avif": "d6d2a2d7d6c6d8d5c0",
+  "src:content/posts/images/badass.avif": "9b8a8a968e8fa8a09c"
 }
