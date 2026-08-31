@@ -2,7 +2,6 @@
 title: 搭檔他心胸太過寬廣～《Badass》
 slug: blmanga_badass
 published: 2021-10-21
-image: ../images/badass.webp
 category: 閱讀心得
 tags: [BL, 原文漫畫]
 description: BL漫。ハジ老師的異種戀愛作品。主角之一稀有龍人的「阿爾馮斯」在降職後遇到了奔放的人類上司「但丁」，看似個性輕浮的但丁工作能力強且不可思議地心胸寬大，這是兩人成為搭檔後互相理解日久生情的故事。
