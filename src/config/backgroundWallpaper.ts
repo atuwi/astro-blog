@@ -39,13 +39,13 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		// 桌面背景圖片（支持单张或多张随机）
 		// desktop: "assets/images/DesktopWallpaper/d1.avif",
 		desktop: [
-			"assets/images/DesktopWallpaper/bg_mugi.webp",
+			"assets/images/DesktopWallpaper/bg_mugi.avif",
 			
 		],
 		// 移动背景图片（支持单张或多张随机）
 		// mobile: "assets/images/MobileWallpaper/m1.avif",
 		mobile: [
-			"assets/images/MobileWallpaper/bg_mugi.webp",
+			"assets/images/MobileWallpaper/bg_mugi.avif",
 		
 		],
 		// 背景视频播放地址
