@@ -46,9 +46,9 @@ export const commentConfig: CommentConfig = {
 		// artalk后端程序 API 地址
 		server: "https://artalk.example.com/",
 		// 设置 Artalk 语言
-		locale: "zh-CN",
+		locale: "zh-TW",
 		// 是否启用文章访问量统计功能
-		visitorCount: true,
+		visitorCount: false,
 	},
 
 	//giscus评论系统配置
